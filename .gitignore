@@ -1,0 +1,11 @@
+# Archivos temporales de Excel
+~$*.xlsx
+~$*.xlsm
+*.tmp
+
+# Archivos temporales de Windows
+Thumbs.db
+desktop.ini
+
+# Archivos de respaldo
+*.bak
